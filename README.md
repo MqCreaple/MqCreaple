@@ -1,4 +1,8 @@
-### Hi there 👋
+### You are reading my profile! | 你在读我的个人简介！
+
+![github-stats](https://github-readme-stats.vercel.app/api?username=zxp2019&show_icons=true&theme=dark)
+
+For more information, see [my blog](https://mqcreaple.github.io/aboutme/) | 关于我的更多信息，请到[我的博客](https://mqcreaple.github.io/aboutme/)
 
 <!--
 **MqCreaple/MqCreaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
