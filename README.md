@@ -2,6 +2,8 @@
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=mqcreaple&show_icons=true&theme=dark)
 
+注：⬇️下面这个东西很不准。我的大部分HTML代码都在博客里，是jekyll自动生成的
+
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mqcreaple&theme=dark&layout=compact)
 
 For more information, see [my blog](https://mqcreaple.github.io/aboutme/) | 关于我的更多信息，请到[我的博客](https://mqcreaple.github.io/aboutme/)
